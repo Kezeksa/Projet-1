@@ -14,8 +14,6 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  border: rgb(179, 31, 196) 2.1px solid;
-  border-radius: 5px;
 }
 
 .logotitle {
@@ -71,11 +69,7 @@ border-radius:50%;
 border:1px solid black;
 margin-left: 70%;
 }
-li:hover img
-{
-width:90px;
-transition: width 0.7s;
-}
+
 
 /* Arnaud */
 
